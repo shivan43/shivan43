@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shivan43
-- 👀 I’m interested in software devolpment
+- 👀 I’m interested in software development
 - 
 - 🌱 I’m currently learning python
 - 💞️ currently i am purshuing b-tech from graphic era hill university
